@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 👋 I’m @louisye1
+- 👀 I’m interested in software development and would like to eventually do game development.
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me:
+  - louisye@ymail.com
+
 <!--
 **louisye1/louisye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
